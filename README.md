@@ -3,7 +3,7 @@
 > Implement following Image Pipeline on CPP
 
 
-## DEVICE Calibration
+## Device Calibration
 
 > Before doing image processing, we have to adjust device so that we can do image process without side effects by devices.
 
